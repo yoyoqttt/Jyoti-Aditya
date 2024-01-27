@@ -454,7 +454,7 @@ button {
 .about_section{
     width: 100%;
     float: left;
-    background-color: #ffb607;
+    background-color: #ffffff;
     height: auto;
     padding-bottom: 90px;
 }
@@ -467,7 +467,7 @@ button {
     width: 100%;
     float: left;
     font-size: 40px;
-    color: #ffffff;
+    color: #000000;
     text-transform: uppercase;
     font-weight: 500;
 }
@@ -475,7 +475,7 @@ button {
     width: 100%;
     float: left;
     font-size: 16px;
-    color: #ffffff;
+    color: #000000;
     margin-left: 0px;
     padding-top: 40px;
 }
